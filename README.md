@@ -8,9 +8,9 @@ Note: if you’d like me to clarify on something, please open an issue 😀.
 
 * Video (coming soon!)
 
-## TLDR on the performance impact of MultiDexing
+## TLDR on the startup performance impact of MultiDexing
 
-TODO insert pic here
+![](multidex_perf_tldr.png)
 
 ## Resources for inspection APK methods
 
