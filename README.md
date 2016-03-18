@@ -14,7 +14,7 @@ Note: if you’d like me to clarify on something, please open an issue 😀.
 
 ## Resources for inspection APK methods
 
-I recommend you do this to ensure that you’re not missing anything drastic (like a poorly configured proguard, for example). Loosely, about 50% of your total methods should belong to your package. Anything indicates not using proguard or having a proguard configuration that needs some love.
+I recommend you do this to ensure that you’re not missing anything drastic (like a poorly configured proguard, for example). Loosely, about 50% of your total methods should belong to your package. Anything lower indicates not using proguard or having a proguard configuration that needs some love.
 
 * [APK method count visualization](http://inloop.github.io/apk-method-count/) via inloop’s github
 
