@@ -4,7 +4,7 @@ Note: if you’d like me to clarify on something, please open an issue 😀.
 
 ## Talk (DroidconSF March 2016):
 
-* [Slides](http://www.slideshare.net/TimothyMellor/dexters-lab-understanding-and-experimenting-with-multidex-droidconsf-march-2016) via SlideShare
+* [Slides](https://speakerdeck.com/tmelz/dexters-lab-understanding-and-experimenting-with-multidex-droidconsf-march-2016) via Speaker Deck
 
 * Video (coming soon!)
 
