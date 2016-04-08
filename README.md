@@ -4,9 +4,8 @@ Note: if you’d like me to clarify on something, please open an issue 😀.
 
 ## Talk (DroidconSF March 2016):
 
+* [Video](https://www.youtube.com/watch?v=skmOBriQ28E)
 * [Slides](https://speakerdeck.com/tmelz/dexters-lab-understanding-and-experimenting-with-multidex-droidconsf-march-2016) via Speaker Deck
-
-* Video (coming soon!)
 
 ## TLDR on the startup performance impact of MultiDexing
 
